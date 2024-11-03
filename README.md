@@ -8,7 +8,7 @@ I'm a self-taught passionate Software developer from India 🇮🇳
 
 - 💼 Software Developer at [Delta Web Services](https://deltait.co.in/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+ 
 
  
 
@@ -26,11 +26,9 @@ I'm a self-taught passionate Software developer from India 🇮🇳
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=yadavbahubali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yadavBahubali&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yadavBahubali&repo=weather-Widget-&theme=buefy" />
 </a>
-<a href=" https://github-readme-stats.vercel.app/api?username=yadavbahubali">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yadavBahubali&repo=yadavBahubali.github.io&theme=buefy" />
-</a>
+ 
 
  
  
